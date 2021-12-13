@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "arkadia:cobalt_block"
+    }
+  ],
+  "result": {
+    "item": "arkadia:cobalt_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "arkadia:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "arkadia:cobalt_chestplate"
+  }
+}

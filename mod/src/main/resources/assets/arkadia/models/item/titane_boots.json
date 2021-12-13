@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "arkadia:item/titane_boots"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "arkadia:cobalt_ore"
+  },
+  "result": "arkadia:cobalt_ingot",
+  "experience": 0.15,
+  "cookingtime": 200
+}

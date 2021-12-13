@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "arkadia:titane_block"
+    }
+  ],
+  "result": {
+    "item": "arkadia:titane_ingot",
+    "count": 9
+  }
+}

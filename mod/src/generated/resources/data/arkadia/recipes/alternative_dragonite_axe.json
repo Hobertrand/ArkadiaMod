@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " DD",
+    " SD",
+    " S "
+  ],
+  "key": {
+    "D": {
+      "item": "arkadia:dragonite_gem"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "arkadia:dragonite_axe"
+  }
+}

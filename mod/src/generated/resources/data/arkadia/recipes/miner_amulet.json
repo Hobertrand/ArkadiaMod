@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DTD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "arkadia:dragonite_block"
+    },
+    "T": {
+      "item": "arkadia:titane_block"
+    }
+  },
+  "result": {
+    "item": "arkadia:miner_amulet"
+  }
+}

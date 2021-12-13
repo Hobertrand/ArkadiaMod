@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T T",
+    "TTT",
+    "TTT"
+  ],
+  "key": {
+    "T": {
+      "item": "arkadia:titane_ingot"
+    }
+  },
+  "result": {
+    "item": "arkadia:titane_chestplate"
+  }
+}

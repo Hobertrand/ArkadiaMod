@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "T": {
+      "item": "arkadia:titane_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "arkadia:titane_hoe"
+  }
+}

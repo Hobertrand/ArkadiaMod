@@ -1,0 +1,73 @@
+{
+
+  "item.arkadia.titane_ingot": "Titane Ingot",
+  "item.arkadia.cobalt_ingot": "Cobalt Ingot",
+  "item.arkadia.dragonite_gem": "Dragonite Gem",
+  "item.arkadia.arkadium_ingot": "Arkadium Ingot",
+  "item.arkadia.miner_amulet": "Miner's Amulet",
+
+
+  "item.arkadia.wooden_spear": "Wooden Spear",
+
+  "item.arkadia.titane_sword": "Titane Sword",
+  "item.arkadia.titane_pickaxe":  "Titane Pickaxe",
+  "item.arkadia.titane_axe": "Titane Axe",
+  "item.arkadia.titane_shovel": "Titane Shovel",
+  "item.arkadia.titane_hoe": "Titane Hoe",
+
+  "item.arkadia.cobalt_sword": "Cobalt Sword",
+  "item.arkadia.cobalt_pickaxe":  "Cobalt Pickaxe",
+  "item.arkadia.cobalt_axe": "Cobalt Axe",
+  "item.arkadia.cobalt_shovel": "Cobalt Shovel",
+  "item.arkadia.cobalt_hoe": "Cobalt Hoe",
+
+  "item.arkadia.dragonite_sword": "Dragonite Sword",
+  "item.arkadia.dragonite_pickaxe":  "Dragonite Pickaxe",
+  "item.arkadia.dragonite_axe": "Dragonite Axe",
+  "item.arkadia.dragonite_shovel": "Dragonite Shovel",
+  "item.arkadia.dragonite_hoe": "Dragonite Hoe",
+
+  "item.arkadia.arkadium_sword": "Arkadium Sword",
+  "item.arkadia.arkadium_pickaxe":  "Arkadium Pickaxe",
+  "item.arkadia.arkadium_axe": "Arkadium Axe",
+  "item.arkadia.arkadium_shovel": "Arkadium Shovel",
+  "item.arkadia.arkadium_hoe": "Arkadium Hoe",
+
+
+  "item.arkadia.titane_helmet": "Titane Helmet",
+  "item.arkadia.titane_chestplate": "Titane Chestplate",
+  "item.arkadia.titane_leggings": "Titane Leggings",
+  "item.arkadia.titane_boots": "Titane Boots",
+
+  "item.arkadia.cobalt_helmet": "Cobalt Helmet",
+  "item.arkadia.cobalt_chestplate": "Cobalt Chestplate",
+  "item.arkadia.cobalt_leggings": "Cobalt Leggings",
+  "item.arkadia.cobalt_boots": "Cobalt Boots",
+
+  "item.arkadia.dragonite_helmet": "Dragonite Helmet",
+  "item.arkadia.dragonite_chestplate": "Dragonite Chestplate",
+  "item.arkadia.dragonite_leggings": "Dragonite Leggings",
+  "item.arkadia.dragonite_boots": "Dragonite Boots",
+
+  "item.arkadia.arkadium_helmet": "Arkadium Helmet",
+  "item.arkadia.arkadium_chestplate": "Arkadium Chestplate",
+  "item.arkadia.arkadium_leggings": "Arkadium Leggings",
+  "item.arkadia.arkadium_boots": "Arkadium Boots",
+
+
+  "block.arkadia.titane_block": "Titane Block",
+  "block.arkadia.titane_ore": "Titane Ore",
+  "block.arkadia.cobalt_block": "Cobalt Block",
+  "block.arkadia.cobalt_ore": "Cobalt Ore",
+  "block.arkadia.dragonite_ore": "Dragonite Ore",
+  "block.arkadia.dragonite_block": "Dragonite Block",
+  "block.arkadia.arkadium_block": "Arkadium Block",
+  "block.arkadia.arkadium_ore": "Arkadium Ore",
+
+  "itemGroup.arkadia_tab_misc": "Arkadia - Minerais",
+  "itemGroup.arkadia_tab_tools": "Arkadia - Outils",
+  "itemGroup.arkadia_tab_combat": "Arkadia - Armes",
+  "itemGroup.arkadia_tab_armors": "Arkadia - Armures",
+
+  "enchantment.arkadia.upstep": "Pégase"
+}
